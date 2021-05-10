@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372551283168",
+    "project_id": "syahcoffeecrew",
+    "storage_bucket": "syahcoffeecrew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372551283168:android:400f773f6956f03e2b7b85",
+        "android_client_info": {
+          "package_name": "com.syahridwan.syah_brewcrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372551283168-srt14e9p6vl9nsh9qovp6mv0fe2r0k3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXGxueNLHv7osdnAg2J-OKJe_5VCLfRro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372551283168-srt14e9p6vl9nsh9qovp6mv0fe2r0k3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
